@@ -1,0 +1,28 @@
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-image {
+  width: 100px;
+  background-color: #ffffff;
+  margin-top: 31px;
+}
+
+.Wade-heading {
+  font-family: 'Roboto';
+  color: #12022f;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
+.profile-description {
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-size: 14px;
+  text-align: center;
+  color: #616e7c;
+}
